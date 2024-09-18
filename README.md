@@ -49,7 +49,7 @@ The notebook lists the databases and collections, confirming the presence of the
 ## How to Use
 - Clone the Repository
  ```bash
-git clone <your-repo-url>
+git clone https://github.com/manahilr701/nosql-challenge.git
 cd nosql-challenge
  ```
 # Set Up MongoDB
